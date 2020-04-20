@@ -4,6 +4,7 @@ A small Ping CLI application for Linux. This CLI app accepts a hostname or an IP
 For Linux machines only.
 
 To use:
+
 Run the makefile
 
 Run the program (./ping) with root permissions 
