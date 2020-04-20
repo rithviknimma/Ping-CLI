@@ -1,2 +1,2 @@
 ping: ping.c
-	gcc -std=c99 -o ping ping.c
+	gcc -o ping ping.c
