@@ -1,5 +1,5 @@
 # Ping-CLI (Linux)
-A small Ping CLI application for Linux. This CLI app accepts a hostname or an IP address as its argument, then sends ICMP "echo requests" in a loop to the target while receiving "echo reply" messages. It reports loss and RTT times for each sent message.
+A small Ping CLI application for Linux. This CLI app accepts a hostname or an IP address as its argument, then sends ICMP "echo requests" in a loop to the target while receiving "echo reply" messages. It reports loss and RTT times for each sent message, along with mininum, maximum, average and total RTT times.
 
 For Linux machines only.
 
