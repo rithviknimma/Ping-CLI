@@ -5,6 +5,7 @@ For Linux machines only.
 
 To use:
 Run the makefile
+
 Run the program (./ping) with root permissions 
 
 Ex: sudo ./ping www.google.com
